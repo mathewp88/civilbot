@@ -1,4 +1,4 @@
-# civilbot
+# Civilbot
 
 The civilbot is a project to test basic mapping and navigation using a lidar for a 4 wheeled robot.
 
